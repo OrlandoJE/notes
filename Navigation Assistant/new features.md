@@ -1,0 +1,3 @@
+- retroalimentación por sonido y vibración para retroalimentar
+- se tiene que garantizar que el audio se envía
+- poner delay
